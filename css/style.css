@@ -1,0 +1,27 @@
+body{
+	font-style: italic;
+	font-variant: bold
+	color:black;
+	background-color: violet;
+}
+h2{font-size: 25px}
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+a {
+	text-align: center;
+	background-color: black;
+    color: white;
+    padding: 7px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 50%;
+}
